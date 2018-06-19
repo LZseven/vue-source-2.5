@@ -1,5 +1,20 @@
 
-<h3>vue源码结构目录</h3>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="format-detection" content="telephone=no">
+  <!--禁止屏幕旋转-->
+  <meta name="screen-orientation" content="portrait">
+  <meta name="x5-orientation" content="portrait">
+  <title>我的ip</title>
+</head>
+<body>
+	<h3>vue源码结构目录</h3>
 
 <ul>
 	<li>src 主要源码所在位置</li>
@@ -19,3 +34,15 @@
 			<p style="marginLeft:20px;"><a href="#">--vdom</a> 虚拟dom相关</p>
 	</li>
 </ul>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
